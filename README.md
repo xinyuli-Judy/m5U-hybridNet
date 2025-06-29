@@ -1,0 +1,2 @@
+# m5U-hybridNet
+The 5-methyluridine (m5U) modification in RNA plays an essential role in a wide range of biological processes. Therefore, the precise identification of m5U has emerged as a key focus in the field of computational biology. Within the scope of this research, we implemented a potent model named m5U-HybridNet, which is based on the integration of RNA foundation model and convolutional neural networks.
